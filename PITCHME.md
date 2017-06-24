@@ -19,7 +19,7 @@
 リポジトリ名がスライドのURLとなります。  
 <img src="img/02.png"/>
 ---
-「Create New File」を選択
+「Create New File」を選択  　
 <img src="img/03.png"/>
 ---
 PITCHME.md  
@@ -28,7 +28,7 @@ PITCHME.md
 内容はマークダウンで記述します。
 ---
 Commit Changeで完了です。  
-<im-g src="img/05.png"/>
+<img src="img/05.png"/>
 ---
 URLは、  
 　  

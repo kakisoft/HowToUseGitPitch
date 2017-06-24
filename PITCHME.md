@@ -1,4 +1,4 @@
-##GitHubだけで作成できるスライド
+### GitHubだけで作成できるスライド
 　  
 
 　  
@@ -14,24 +14,24 @@
 作り方
 ---
 リポジトリを作成
-<img src="img/01.png"/>
+<img src="img/01.png" width="300" height="200"/>
 ---
-リポジトリ名がスライドのURLとなります。
+リポジトリ名がスライドのURLとなります。  
 <img src="img/02.png"/>
 ---
 「Create New File」を選択
 <img rc="img/03.png"/>
 ---
 PITCHME.md  
-というファイルを作成します。
-<img src="img/04.png"/>
+というファイルを作成します。  
+<img src="img/04.png"/>  
 内容はマークダウンで記述します。
 ---
-Commit Changeで完了です。
+Commit Changeで完了です。  
 <im-g src="img/05.png"/>
 ---
-URLは、
-https://gitpitch.com/<ユーザ名>/<リポジトリ名>
+URLは、  
+https://gitpitch.com/<ユーザ名>/<リポジトリ名>  
 となります。
 ---
 公式サイト

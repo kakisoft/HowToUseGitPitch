@@ -13,8 +13,8 @@
 ---
 作り方
 ---
-リポジトリを作成
-<img src="img/01.png" width="300" height="200"/>
+リポジトリを作成  
+<img src="img/01.png" width="500" height="500"/>
 ---
 リポジトリ名がスライドのURLとなります。  
 <img src="img/02.png"/>

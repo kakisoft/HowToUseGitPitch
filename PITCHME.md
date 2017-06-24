@@ -14,13 +14,13 @@
 作り方
 ---
 リポジトリを作成  
-<img src="img/01.png" width="500" height="500"/>
+<img src="img/01.png">
 ---
 リポジトリ名がスライドのURLとなります。  
 <img src="img/02.png"/>
 ---
 「Create New File」を選択
-<img rc="img/03.png"/>
+<img src="img/03.png"/>
 ---
 PITCHME.md  
 というファイルを作成します。  
@@ -31,10 +31,12 @@ Commit Changeで完了です。
 <im-g src="img/05.png"/>
 ---
 URLは、  
+　  
 https://gitpitch.com/<ユーザ名>/<リポジトリ名>  
+　  
 となります。
 ---
-公式サイト
+公式サイト  
 https://gitpitch.com/
 ---
 おわり

@@ -1,30 +1,40 @@
-*GitHubだけで作成できるスライド*
-  　　　　
+##GitHubだけで作成できるスライド
+　  
+
+　  
 　  
 　　　　垣花　暁
-
----
-「GitPitch」というサービスを使っています。
-
 ---
 こんな感じのスライドが作れます。
-
+---
+「GitPitch」というサービスを使っています。
 ---
 必要なのは、GitHubアカウントのみ。
-
 ---
 作り方
-
 ---
+リポジトリを作成
 <img src="img/01.png"/>
 ---
+リポジトリ名がスライドのURLとなります。
 <img src="img/02.png"/>
 ---
-<img src="img/03.png"/>
+「Create New File」を選択
+<img rc="img/03.png"/>
 ---
+PITCHME.md  
+というファイルを作成します。
 <img src="img/04.png"/>
+内容はマークダウンで記述します。
 ---
-<img src="img/05.png"/>
+Commit Changeで完了です。
+<im-g src="img/05.png"/>
 ---
-
-
+URLは、
+https://gitpitch.com/<ユーザ名>/<リポジトリ名>
+となります。
+---
+公式サイト
+https://gitpitch.com/
+---
+おわり

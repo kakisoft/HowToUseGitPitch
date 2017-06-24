@@ -30,7 +30,7 @@ PITCHME.md
 Commit Changeで完了です。  
 <img src="img/05.png"/>
 ---
-URLは、  
+URLは、   
 　  
 https://gitpitch.com/<ユーザ名>/<リポジトリ名>  
 　  

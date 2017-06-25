@@ -9,7 +9,7 @@
 ---
 「GitPitch」というサービスを使っています。
 ---
-必要なのは、GitHubアカウントのみ。
+必要なのは GitHubアカウントのみ。
 ---
 作り方
 ---
@@ -27,7 +27,7 @@ PITCHME.md
 <img src="img/04.png"/>  
 内容はマークダウンで記述します。
 ---
-Commit Changeで完了です。  
+Commit New Fileで完了です。  
 <img src="img/05.png"/>
 ---
 URLは、   

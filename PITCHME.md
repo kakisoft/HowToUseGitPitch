@@ -28,12 +28,14 @@ PITCHME.md
 ---
 内容はマークダウンで記述します。
 ---
-### フラグメント
-- Java
-- JavaScript |
-- Kotlin     |
-- Go         |
-- Scala      |
+GitPitch独自の記法もあります。
+---
+### Fragment Slides
+- 要素の先頭に```- ```を並べ
+- 末尾に```|``` を記述すると |
+- １行単位で     |
+- 表示することが         |
+- できます      |
 ```
 ---?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
 ```

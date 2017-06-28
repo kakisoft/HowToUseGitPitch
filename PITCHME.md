@@ -25,7 +25,9 @@
 PITCHME.md  
 というファイルを作成します。  
 <img src="img/04.png"/>  
+---
 内容はマークダウンで記述します。
+---?gist=92d3fc38dae2eadc97f4a2881fbfc695.js
 ---
 Commit new fileで完了です。  
 <img src="img/05.png"/>
@@ -33,8 +35,11 @@ Commit new fileで完了です。
 URLは、   
 　  
 https://gitpitch.com/<ユーザ名>/<リポジトリ名>  
+　   
+となります。
+---
+ブランチを切って  
 　  
-ブランチを切って
 https://gitpitch.com/<ユーザ名>/<リポジトリ名>/<ブランチ名>  
 　  
 とする事もできます。

@@ -30,6 +30,19 @@ PITCHME.md
 ---
 一方で、GitPitch独自の記法もあります。
 ---
+
+```
+var str1 = 'hello world';
+var flag = true;
+var result = 10 + 20;
+
+
+console.log( str1 );
+console.log( str2 );
+console.log( str3 );
+```
+@[2-3](flagに「true」を代入)
+---
 ### Fragment Slides
 - 要素の先頭を```\-```で記述し |
 - 末尾に```\|``` を記述すると |
@@ -41,6 +54,9 @@ PITCHME.md
 \---?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
 ```
 と記述することで、Gistも表示可能です。
+---
+### Code Presenting
+
 ---
 Commit new fileで完了です。  
 <img src="img/05.png"/>

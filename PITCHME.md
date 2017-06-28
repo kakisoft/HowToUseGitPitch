@@ -38,7 +38,7 @@ GitPitch独自の記法もあります。
 - できます                 |
 ---
 ```
-\-\-\-?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
+---?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
 ```
 と記述することで、Gistも表示可能です。
 ---

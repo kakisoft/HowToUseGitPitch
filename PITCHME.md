@@ -32,9 +32,12 @@ Commit new fileで完了です。
 ---
 URLは、   
 　  
-https://gitpitch.com/<ユーザ名>/<リポジトリ名>  
+https://gitpitch.com/<ユーザ名>/<リポジトリ名>  
 　  
-となります。
+ブランチを切って
+https://gitpitch.com/<ユーザ名>/<リポジトリ名>/<ブランチ名>  
+　  
+とする事もできます。
 ---
 公式サイト  
 https://gitpitch.com/

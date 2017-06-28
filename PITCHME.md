@@ -30,7 +30,13 @@ PITCHME.md
 ---
 一方で、GitPitch独自の記法もあります。
 ---
-
+### Fragment Slides
+- 要素の先頭を\-で記述し |
+- 末尾に\| を記述すると |
+- １行単位で                |
+- 表示することが            |
+- できます                 |
+---
 ```
 var str1 = 'hello world';
 var flag = true;
@@ -44,15 +50,9 @@ console.log( str3 );
 @[1-2](flagに「true」を代入)
 @[3](3333flagに「true」を代入)
 ---
-### Fragment Slides
-- 要素の先頭を```\-```で記述し |
-- 末尾に```\|``` を記述すると |
-- １行単位で                |
-- 表示することが            |
-- できます                 |
----
+
 ```
-\---?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
+---?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
 ```
 と記述することで、Gistも表示可能です。
 ---

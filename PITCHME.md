@@ -82,7 +82,9 @@ https://gitpitch.com/<ユーザ名>/<リポジトリ名>/<ブランチ名>
 各種操作の説明は、スライド再生中に  
 ```?```を押すと確認可能です。  
 ---
-公式サイト  
-https://gitpitch.com/
+下のメニューより、
+PDFファイルにする事も可能です。
 ---
-おわり
+次のスライドでは、設定ファイルについて  
+説明しています。
+https://gitpitch.com/kakisoft/HowToUseGitPitch2

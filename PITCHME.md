@@ -14,17 +14,17 @@
 作り方
 ---
 リポジトリを作成  
-<img src="img/01.png">
+<img src="assets/01.png">
 ---
 リポジトリ名がスライドのURLとなります。  
-<img src="img/02.png"/>
+<img src="assets/02.png"/>
 ---
 「Create New File」を選択  　
-<img src="img/03.png"/>
+<img src="assets/03.png"/>
 ---
 PITCHME.md  
 というファイルを作成します。  
-<img src="img/04.png"/>  
+<img src="assets/04.png"/>  
 ---
 内容はマークダウンで記述します。
 ---
@@ -55,7 +55,7 @@ console.log("可能です。");
 ---
 記述が終わったら、  
 Commit new fileで完了です。  
-<img src="img/05.png"/>
+<img src="assets/05.png"/>
 ---
 URLは、   
 　  

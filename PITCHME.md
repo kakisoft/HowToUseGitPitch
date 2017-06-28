@@ -41,7 +41,8 @@ console.log( str1 );
 console.log( str2 );
 console.log( str3 );
 ```
-@[2-3](flagに「true」を代入)
+@[1-2](flagに「true」を代入)
+@[3](3333flagに「true」を代入)
 ---
 ### Fragment Slides
 - 要素の先頭を```\-```で記述し |

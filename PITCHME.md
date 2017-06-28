@@ -29,6 +29,9 @@ PITCHME.md
 内容はマークダウンで記述します。
 ---?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
 ---
+?gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
+gist=kakisoft/92d3fc38dae2eadc97f4a2881fbfc695
+---
 Commit new fileで完了です。  
 <img src="img/05.png"/>
 ---

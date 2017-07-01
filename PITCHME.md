@@ -30,7 +30,7 @@ PITCHME.md
 ---
 一方で、GitPitch独自の記法もあります。
 ---
-\-\-\-  
+\-\-\-
 で、スライドが切り替わります。
 ---
 ### Fragment Slides

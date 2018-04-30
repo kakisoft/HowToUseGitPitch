@@ -89,6 +89,9 @@ https://gitpitch.com/<ユーザ名>/<リポジトリ名>/<ブランチ名>
 下のメニューより、  
 PDFファイルにする事も可能です。
 ---
+このスライドの PITCHME.md は、     
+[こんな感じ](https://github.com/kakisoft/HowToUseGitPitch/blob/master/PITCHME.md.txt)です。
+---
 次のスライドでは、  
 設定ファイルについて説明しています。  
 https://gitpitch.com/kakisoft/HowToUseGitPitch2

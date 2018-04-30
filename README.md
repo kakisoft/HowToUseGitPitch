@@ -8,7 +8,7 @@ https://gitpitch.com/kakisoft/HowToUseGitPitch
 　  
 　  
 　  
-使い方の基本としては、リポジトリに「PITCHME.md」というファイルを作成し、マークダウンで記述します。    
+使い方の基本としては、リポジトリに「PITCHME.md」というファイルを作成し、マークダウンで記述します。      
 ForkしてPITCHME.md を編集すると、いい感じに作成できるかと思います。    
 　  
 　  

@@ -17,14 +17,14 @@
 ![alt](assets/CreateNewRepository.png)
 ---
 リポジトリ名がスライドのURLとなります。  
-<img src="assets/EditRepositoryName.png"/>
+![alt](assets/EditRepositoryName.png)
 ---
 「Create New File」を選択  　
-<img src="assets/CreateNewFile.png"/>
+![alt](assets/CreateNewFile.png)
 ---
 PITCHME.md  
 というファイルを作成します。  
-<img src="assets/AddPitchme.png"/>  
+![alt](assets/AddPitchme.png)
 ---
 内容はマークダウンで記述します。
 ---
@@ -59,7 +59,7 @@ console.log("eof");
 ---
 記述が終わったら、  
 Commit new fileで完了です。  
-<img src="assets/CommitNewFile.png"/>
+![alt](assets/CommitNewFile.png)
 ---
 URLは、   
 　  

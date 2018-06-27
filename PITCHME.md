@@ -14,17 +14,17 @@
 作り方
 ---
 リポジトリを作成  
-![alt](assets/CreateNewRepository.png)
+<img src="assets/CreateNewRepository.png">
 ---
 リポジトリ名がスライドのURLとなります。  
-![alt](assets/EditRepositoryName.png)
+<img src="assets/EditRepositoryName.png"/>
 ---
 「Create New File」を選択  　
-![alt](assets/CreateNewFile.png)
+<img src="assets/CreateNewFile.png"/>
 ---
 PITCHME.md  
 というファイルを作成します。  
-![alt](assets/AddPitchme.png)
+<img src="assets/AddPitchme.png"/>  
 ---
 内容はマークダウンで記述します。
 ---
@@ -59,7 +59,7 @@ console.log("eof");
 ---
 記述が終わったら、  
 Commit new fileで完了です。  
-![alt](assets/CommitNewFile.png)
+<img src="assets/CommitNewFile.png"/>
 ---
 URLは、   
 　  

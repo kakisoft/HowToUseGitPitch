@@ -1,6 +1,4 @@
-## GitHubだけでスライドが作れる、GitPitch の使い方。  
-**～基本編～**
-
+## GitHubだけでスライドが作れる、GitPitch の使い方。～基本編～  
 スライドはこちら。  
 https://gitpitch.com/kakisoft/HowToUseGitPitch
 
@@ -18,6 +16,5 @@ https://github.com/kakisoft/HowToUseGitPitch/blob/master/PITCHME.md.txt
 　  
 　  
 この内容をさらに発展させた、応用編も作ってます。  
-## GitHubだけでスライドが作れる、GitPitch の使い方。  
-**～応用編～**  
+## GitHubだけでスライドが作れる、GitPitch の使い方 ～応用編～  
 https://github.com/kakisoft/HowToUseGitPitch3  

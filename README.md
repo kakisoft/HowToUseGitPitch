@@ -15,3 +15,9 @@ Fork して「PITCHME.md」を編集すると、いい感じに作成できる�
 　  
 Fork が面倒な人向けに、PITCHME.md の中身を用意しときました。    
 https://github.com/kakisoft/HowToUseGitPitch/blob/master/PITCHME.md.txt
+　  
+　  
+この内容をさらに発展させた、応用編も作ってます。  
+## GitHubだけでスライドが作れる、GitPitch の使い方。  
+**～応用編～**  
+https://github.com/kakisoft/HowToUseGitPitch3  
